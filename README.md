@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Fahad! 👋
 
-<!--
-**fahad-aslam8743/fahad-aslam8743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer in the Making
+I am a passionate learner from Pakistan, currently mastering **React.js**. I believe in solving real-world problems through code, even if it means working on a 2012 MacBook Pro! 💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Technologies
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Version Control:** Git & GitHub
+- **Learning:** Node.js, Express, and MongoDB
+
+---
+
+### 📈 My Coding Journey
+- 🏗️ Built a full **E-commerce Store** using Vanilla JavaScript.
+- 💰 Created an **Expense Tracker** to manage finances.
+- 📝 Developed a **Smart To-Do List** in React.
+- ⚡ Goal: To help local businesses digitize their operations.
+
+---
+
+### 🤝 Let's Connect!
+- 📧 Email: notxfahad@gmail.com
