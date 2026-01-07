@@ -5,6 +5,20 @@ I am a passionate learner from Pakistan, currently mastering **React.js**. I bel
 
 ---
 
+### 💡 My Philosophy
+"Hardware doesn't define a developer, the logic does."
+I started my coding journey on a 2012 MacBook Pro, proving that persistence is the key to mastering technology. Currently, I am diving deep into the **React ecosystem** to build scalable and efficient user interfaces.
+
+---
+
+### 🛠️ What I'm working on:
+- 🔭 I’m currently working on converting my **E-commerce Store** into a full-fledged React application.
+- 🌱 I’m currently learning **Advanced React Hooks** and **State Management**.
+- 📝 Recently developed a **Smart To-Do List** in React.
+- 💬 Ask me about **JavaScript, React, or my journey with old-school hardware!**
+
+---
+
 ### 🛠 Tools & Technologies
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Version Control:** Git & GitHub
@@ -12,11 +26,16 @@ I am a passionate learner from Pakistan, currently mastering **React.js**. I bel
 
 ---
 
-### 📈 My Coding Journey
-- 🏗️ Built a full **E-commerce Store** using Vanilla JavaScript.
-- 💰 Created an **Expense Tracker** to manage finances.
-- 📝 Developed a **Smart To-Do List** in React.
-- ⚡ Goal: To help local businesses digitize their operations.
+### 📊 GitHub Stats
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad-aslam8743&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-aslam8743&layout=compact&theme=radical)
+
+---
+
+### 🎯 2026 Goals:
+- [ ] Complete 5 Real-world React Projects.
+- [ ] Help 3 Local Businesses go digital.
+- [ ] Start learning Node.js and MongoDB (MERN Stack).
 
 ---
 
