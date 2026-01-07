@@ -27,10 +27,14 @@ I started my coding journey on a 2012 MacBook Pro, proving that persistence is t
 ---
 
 ### 📊 GitHub Stats
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad-aslam8743&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-aslam8743&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad-aslam8743&show_icons=true&theme=radical" alt="Fahad's GitHub stats" />
+</p>
 
----
+### 💻 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-aslam8743&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ### 🎯 2026 Goals:
 - [ ] Complete 5 Real-world React Projects.
