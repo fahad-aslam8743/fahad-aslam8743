@@ -7,7 +7,7 @@
 ---
 
 ### 💎 About Me
-I am a passionate **Full-Stack Developer** dedicated to crafting high-performance, visually stunning web applications. I specialize in **Glassmorphic UIs**, fluid animations, and responsive architectures that provide a premium user experience.
+I am a passionate **Frontend Developer** dedicated to crafting high-performance, visually stunning web applications. I specialize in **Glassmorphic UIs**, fluid animations, and responsive architectures that provide a premium user experience.
 
 - 🌐 **Live Portfolio:** [Live Demo](https://fahad-portfolio-pi.vercel.app/)
 - 💻 **Currently Focused On:** Advanced React patterns & Framer Motion physics.
@@ -28,17 +28,10 @@ I am a passionate **Full-Stack Developer** dedicated to crafting high-performanc
 
 ---
 
-### 📊 My GitHub Beauty Stats
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-aslam8743&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fahad's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-aslam8743&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="38%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-aslam8743&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="87%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-aslam8743&theme=tokyonight" alt="GitHub Streak" width="87%" />
 </div>
 
 ---
