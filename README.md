@@ -1,49 +1,75 @@
-# Hi there, I'm Fahad! 👋
+# 🚀 Hi, I'm Fahad Aslam | Full-Stack Developer
 
-### 🚀 MERN Stack Developer in the Making
-I am a passionate learner from Pakistan, currently mastering **React.js**. I believe in solving real-world problems through code, even if it means working on a 2012 MacBook Pro! 💻
-
----
-
-### 💡 My Philosophy
-"Hardware doesn't define a developer, the logic does."
-I started my coding journey on a 2012 MacBook Pro, proving that persistence is the key to mastering technology. Currently, I am diving deep into the **React ecosystem** to build scalable and efficient user interfaces.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Tailwind+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ What I'm working on:
-- 🔭 I’m currently working on converting my **E-commerce Store** into a full-fledged React application.
-- 🌱 I’m currently learning **Advanced React Hooks** and **State Management**.
-- 📝 Recently developed a **Smart To-Do List** in React.
-- 💬 Ask me about **JavaScript, React, or my journey with old-school hardware!**
+### 💎 About Me
+I am a passionate **Full-Stack Developer** dedicated to crafting high-performance, visually stunning web applications. I specialize in **Glassmorphic UIs**, fluid animations, and responsive architectures that provide a premium user experience.
+
+- 🌐 **Live Portfolio:** [Live Demo](https://fahad-portfolio-pi.vercel.app/)
+- 💻 **Currently Focused On:** Advanced React patterns & Framer Motion physics.
+- ⚡ **Fun Fact:** I believe clean code is a form of art.
 
 ---
 
-### 🛠 Tools & Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack
 
-- **Version Control:** Git & GitHub
-- **Learning:** Node.js, Express, and MongoDB
-
----
-
-### 📊 GitHub Stats
-![Fahad's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=fahad-aslam8743&show_icons=true&theme=algolia)
-
-### 💻 Top Languages
-![Fahad's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahad-aslam8743&layout=compact&theme=algolia)
-
-
-### 🎯 2026 Goals:
-- [ ] Complete 5 Real-world React Projects.
-- [ ] Help 3 Local Businesses go digital.
-- [ ] Start learning Node.js and MongoDB (MERN Stack).
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/framer%20motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-### 🤝 Let's Connect!
-- 📧 Email: notxfahad@gmail.com
+### 📊 My GitHub Beauty Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad-aslam8743&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fahad's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-aslam8743&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="38%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-aslam8743&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="87%" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fahad-aslam-a84653306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/notwebdevfahad">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/fahadaslam009">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:notxfahad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://fahad-portfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🏆 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad-aslam8743&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<div align="center">
+  <sub>Built with ❤️ by Fahad Aslam</sub>
+</div>
